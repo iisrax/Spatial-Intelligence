@@ -10,7 +10,7 @@
 
 Primeiro projeto realizado durante o início da formação — **HTML Web Developer**
 
-E apesar da premissa do desafio ser essa, tags aprendidas — com o auxílio do **ChatGPT** pude desenvolver uma formação em `css` para deixar o site visualmente mais agradável. 🎉
+E apesar da premissa do desafio ser essa, tags aprendidas — com o auxílio do **ChatGPT** pude desenvolver uma formatação em `css` para deixar o site visualmente mais agradável. 🎉
 
 #### Para visualização do site clique [**aqui**](https://iisrax.github.io/Spatial-Intelligence/) 🔍
 
